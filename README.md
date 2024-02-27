@@ -5,7 +5,7 @@ Um diagrama para ser apresentado ao professor Marcelo em trio.
 
 ## Como Utilizar
 Visualização do Diagrama:
-- Abra o arquivo diagrama_logistica.png para visualizar o diagrama de processos.
+- Abra o arquivo image (1).png para visualizar o diagrama de processos.
 
 ## Créditos
 - Ana
